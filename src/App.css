@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px;
+}
+
+#form-message{
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    margin: 15px;
+    width: 200px;
+}
